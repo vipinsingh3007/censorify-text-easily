@@ -1,0 +1,24 @@
+{
+  "name": "censorify-text-easily",
+  "version": "0.1.1",
+  "description": "Censors word out of text",
+  "main": "censortext.js",
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/vipinsingh3007/censorify-text-easily"
+  },
+  "keywords": [
+    "censor",
+    "words",
+    "text"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vipinkumar Singh",
+  "license": "ISC",
+  "dependencies": {},
+  "engine": {
+    "node": "*"
+  }
+}
