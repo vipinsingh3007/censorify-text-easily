@@ -2,7 +2,7 @@
   "name": "censorify-text-easily",
   "version": "0.1.1",
   "description": "Censors word out of text",
-  "main": "censortext.js",
+  "main": "censortext",
   "respository": {
     "type": "git",
     "url": "https://github.com/vipinsingh3007/censorify-text-easily"
