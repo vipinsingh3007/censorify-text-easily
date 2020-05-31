@@ -1,4 +1,4 @@
-const censorwords = ["sad", "bad", "mad"];
+const censoredWords = ["sad", "bad", "mad"];
 const customCensoredWords = [];
 function censor(inStr) {
   for (idx in censoredWords) {
